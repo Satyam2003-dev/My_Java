@@ -48,3 +48,4 @@ public class Rectangle {
         System.out.println("Area: " + area);
     }
 }
+  
