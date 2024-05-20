@@ -41,3 +41,19 @@ public class GradeMessage {
         System.out.println(message);
     }
 }
+
+
+// use of switch expression is below
+        // Determine the message based on the entered grade using switch expression
+
+        
+        // String message = switch (grade) {
+        //     case "A" -> "Excellent job!";
+        //     case "B" -> "Great job!";
+        //     case "C" -> "Good job!";
+        //     case "D" -> "You need to work a bit harder";
+        //     case "F" -> "Uh oh!";
+        //     default -> "Error. Invalid grade";
+        // };
+
+        
