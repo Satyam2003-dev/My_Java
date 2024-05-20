@@ -34,7 +34,7 @@ public class Rectangle {
 
     public void setWidth(double width){
         this.width = width;
-    }
+    } 
 
     public static void main(String[] args) {
         // Create an instance of Rectangle using the parameterized constructor
