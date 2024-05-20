@@ -1,4 +1,4 @@
-// package gross_calculator; // This is the package declaration un comment if you need this
+// package gross_calculator; // This is the package declaration uncomment if you need this
 
 import java.util.Scanner;
 
